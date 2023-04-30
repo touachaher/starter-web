@@ -16,7 +16,7 @@ Deployment
 
 ## How to contriburte
 
-Simple
+Simple, working for fork.
 
 ## Copyright
 
