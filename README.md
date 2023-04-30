@@ -17,3 +17,7 @@ Deployment
 ## How to contriburte
 
 Simple
+
+## Copyright
+
+Copyright 2023
